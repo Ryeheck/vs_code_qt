@@ -37,7 +37,7 @@ DVDScreenSaver::DVDScreenSaver(QWidget *parent) : QWidget(parent)
     setAttribute(Qt::WA_TransparentForMouseEvents);
     setFocusPolicy(Qt::StrongFocus);
 
-    _image.load("/home/ryabi/my_apps/qt/vs_code_qt/Paint/images/pingvin.png");
+    _image.load("Paint/images/pingvin.png");
     _image = _image.scaled(SIZE_X, SIZE_Y, Qt::KeepAspectRatio, Qt::SmoothTransformation);
 
     QTimer *timer = new QTimer(this);

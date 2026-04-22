@@ -1,5 +1,5 @@
-/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/ryabi/my_apps/qt/vs_code_qt/mainwindow.h \
-  /home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/moc_predefs.h \
+/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/ryabi/my_apps/qt/EncryptionAndMore/mainwindow.h \
+  /home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/moc_predefs.h \
   /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore/q17memory.h \
   /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore/q20bit.h \
   /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore/q20functional.h \

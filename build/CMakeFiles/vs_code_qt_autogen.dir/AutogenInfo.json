@@ -1,17 +1,17 @@
 {
-	"BUILD_DIR" : "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen",
-	"CMAKE_BINARY_DIR" : "/home/ryabi/my_apps/qt/vs_code_qt/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/ryabi/my_apps/qt/vs_code_qt/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ryabi/my_apps/qt/vs_code_qt",
+	"BUILD_DIR" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ryabi/my_apps/qt/EncryptionAndMore",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/ryabi/my_apps/qt/vs_code_qt/CMakeLists.txt",
-		"/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/4.3.1/CMakeSystem.cmake",
+		"/home/ryabi/my_apps/qt/EncryptionAndMore/CMakeLists.txt",
+		"/home/ryabi/my_apps/qt/EncryptionAndMore/build/CMakeFiles/4.3.1/CMakeSystem.cmake",
 		"/home/ryabi/Qt/6.11.0/gcc_64/lib/cmake/Qt6/qt.toolchain.cmake",
 		"/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake",
-		"/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/4.3.1/CMakeCXXCompiler.cmake",
+		"/home/ryabi/my_apps/qt/EncryptionAndMore/build/CMakeFiles/4.3.1/CMakeCXXCompiler.cmake",
 		"/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
 		"/usr/share/cmake/Modules/CMakeGenericSystem.cmake",
 		"/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake",
@@ -475,34 +475,34 @@
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/ryabi/my_apps/qt/vs_code_qt",
+	"CMAKE_SOURCE_DIR" : "/home/ryabi/my_apps/qt/EncryptionAndMore",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/deps",
+	"DEP_FILE" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "vs_code_qt_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.h",
+			"/home/ryabi/my_apps/qt/EncryptionAndMore/Paint/painter.h",
 			"MU",
 			"IRTKU5DEF3/moc_painter.cpp",
 			null
 		],
 		[
-			"/home/ryabi/my_apps/qt/vs_code_qt/encryption/func.hpp",
+			"/home/ryabi/my_apps/qt/EncryptionAndMore/encryption/func.hpp",
 			"MU",
 			"LF2OXZ435N/moc_func.cpp",
 			null
 		],
 		[
-			"/home/ryabi/my_apps/qt/vs_code_qt/mainwindow.h",
+			"/home/ryabi/my_apps/qt/EncryptionAndMore/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -545,27 +545,31 @@
 		"-E",
 		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 6,
-	"PARSE_CACHE_FILE" : "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/CMakeFiles/vs_code_qt_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/home/ryabi/Qt/6.11.0/gcc_64/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/home/ryabi/Qt/6.11.0/gcc_64/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 11,
-	"SETTINGS_FILE" : "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/ryabi/my_apps/qt/EncryptionAndMore/build/CMakeFiles/vs_code_qt_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.cpp", "MU", null ],
 		[
-			"/home/ryabi/my_apps/qt/vs_code_qt/encryption/encrypt.cpp",
+			"/home/ryabi/my_apps/qt/EncryptionAndMore/Paint/painter.cpp",
 			"MU",
 			null
 		],
-		[ "/home/ryabi/my_apps/qt/vs_code_qt/main.cpp", "MU", null ],
-		[ "/home/ryabi/my_apps/qt/vs_code_qt/mainwindow.cpp", "MU", null ]
+		[
+			"/home/ryabi/my_apps/qt/EncryptionAndMore/encryption/encrypt.cpp",
+			"MU",
+			null
+		],
+		[ "/home/ryabi/my_apps/qt/EncryptionAndMore/main.cpp", "MU", null ],
+		[ "/home/ryabi/my_apps/qt/EncryptionAndMore/mainwindow.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

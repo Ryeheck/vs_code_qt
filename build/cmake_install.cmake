@@ -1,4 +1,4 @@
-# Install script for directory: /home/ryabi/my_apps/qt/vs_code_qt
+# Install script for directory: /home/ryabi/my_apps/qt/EncryptionAndMore
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/vs_code_qt"
          RPATH "\$ORIGIN:\$ORIGIN/../lib")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/vs_code_qt" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/vs_code_qt")
     file(RPATH_CHANGE
@@ -63,13 +63,13 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/ryabi/my_apps/qt/vs_code_qt/build/.qt/deploy_vs_code_qt_fef8908295.cmake")
+  include("/home/ryabi/my_apps/qt/EncryptionAndMore/build/.qt/deploy_vs_code_qt_fef8908295.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/ryabi/my_apps/qt/vs_code_qt/build/install_local_manifest.txt"
+  file(WRITE "/home/ryabi/my_apps/qt/EncryptionAndMore/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -85,6 +85,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/ryabi/my_apps/qt/vs_code_qt/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/ryabi/my_apps/qt/EncryptionAndMore/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

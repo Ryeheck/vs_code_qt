@@ -525,17 +525,17 @@ vs_code_qt_autogen/timestamp: \
 	/home/ryabi/Qt/6.11.0/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	/home/ryabi/Qt/6.11.0/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargetsPrecheck.cmake \
 	/home/ryabi/Qt/6.11.0/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-	/home/ryabi/my_apps/qt/vs_code_qt/CMakeLists.txt \
-	/home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.cpp \
-	/home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.h \
-	/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/4.3.1/CMakeCXXCompiler.cmake \
-	/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/4.3.1/CMakeSystem.cmake \
-	/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/moc_predefs.h \
-	/home/ryabi/my_apps/qt/vs_code_qt/encryption/encrypt.cpp \
-	/home/ryabi/my_apps/qt/vs_code_qt/encryption/func.hpp \
-	/home/ryabi/my_apps/qt/vs_code_qt/main.cpp \
-	/home/ryabi/my_apps/qt/vs_code_qt/mainwindow.cpp \
-	/home/ryabi/my_apps/qt/vs_code_qt/mainwindow.h \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/CMakeLists.txt \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/Paint/painter.cpp \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/Paint/painter.h \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/build/CMakeFiles/4.3.1/CMakeCXXCompiler.cmake \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/build/CMakeFiles/4.3.1/CMakeSystem.cmake \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/moc_predefs.h \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/encryption/encrypt.cpp \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/encryption/func.hpp \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/main.cpp \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/mainwindow.cpp \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/mainwindow.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/bitsperlong.h \
 	/usr/include/asm-generic/errno-base.h \
@@ -855,5 +855,5 @@ vs_code_qt_autogen/timestamp: \
 	/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake \
 	/usr/share/cmake/Modules/Platform/Linux.cmake \
 	/usr/share/cmake/Modules/Platform/UnixPaths.cmake \
-	/home/ryabi/my_apps/qt/vs_code_qt/mainwindow.ui \
+	/home/ryabi/my_apps/qt/EncryptionAndMore/mainwindow.ui \
 	/usr/bin/cmake

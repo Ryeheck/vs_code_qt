@@ -15,7 +15,7 @@ qt_add_executable(vs_code_qt
     mainwindow.h
     Paint/painter.cpp
     Paint/painter.h
-#    Paint/images/pingvin.png
+    Paint/images/pingvin.png
     encryption/encrypt.cpp
     encryption/func.hpp
     mainwindow.ui

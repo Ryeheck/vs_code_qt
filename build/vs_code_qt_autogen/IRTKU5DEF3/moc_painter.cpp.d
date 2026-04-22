@@ -1,5 +1,5 @@
-/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/IRTKU5DEF3/moc_painter.cpp: /home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.h \
-  /home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/moc_predefs.h \
+/home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/IRTKU5DEF3/moc_painter.cpp: /home/ryabi/my_apps/qt/EncryptionAndMore/Paint/painter.h \
+  /home/ryabi/my_apps/qt/EncryptionAndMore/build/vs_code_qt_autogen/moc_predefs.h \
   /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore/QList \
   /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore/QObject \
   /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore/QRect \
