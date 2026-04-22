@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ryabi/my_apps/qt/vs_code_qt/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

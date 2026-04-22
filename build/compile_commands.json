@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ryabi/my_apps/qt/vs_code_qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore -isystem /home/ryabi/Qt/6.11.0/gcc_64/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/mkspecs/linux-g++ -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtWidgets -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -fPIC -o CMakeFiles/vs_code_qt.dir/vs_code_qt_autogen/mocs_compilation.cpp.o -c /home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/mocs_compilation.cpp",
+  "file": "/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/mocs_compilation.cpp",
+  "output": "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt.dir/vs_code_qt_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/ryabi/my_apps/qt/vs_code_qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore -isystem /home/ryabi/Qt/6.11.0/gcc_64/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/mkspecs/linux-g++ -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtWidgets -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -fPIC -o CMakeFiles/vs_code_qt.dir/main.cpp.o -c /home/ryabi/my_apps/qt/vs_code_qt/main.cpp",
+  "file": "/home/ryabi/my_apps/qt/vs_code_qt/main.cpp",
+  "output": "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ryabi/my_apps/qt/vs_code_qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore -isystem /home/ryabi/Qt/6.11.0/gcc_64/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/mkspecs/linux-g++ -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtWidgets -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -fPIC -o CMakeFiles/vs_code_qt.dir/mainwindow.cpp.o -c /home/ryabi/my_apps/qt/vs_code_qt/mainwindow.cpp",
+  "file": "/home/ryabi/my_apps/qt/vs_code_qt/mainwindow.cpp",
+  "output": "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/ryabi/my_apps/qt/vs_code_qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore -isystem /home/ryabi/Qt/6.11.0/gcc_64/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/mkspecs/linux-g++ -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtWidgets -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -fPIC -o CMakeFiles/vs_code_qt.dir/Paint/painter.cpp.o -c /home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.cpp",
+  "file": "/home/ryabi/my_apps/qt/vs_code_qt/Paint/painter.cpp",
+  "output": "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt.dir/Paint/painter.cpp.o"
+},
+{
+  "directory": "/home/ryabi/my_apps/qt/vs_code_qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/ryabi/my_apps/qt/vs_code_qt/build/vs_code_qt_autogen/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtCore -isystem /home/ryabi/Qt/6.11.0/gcc_64/include -isystem /home/ryabi/Qt/6.11.0/gcc_64/mkspecs/linux-g++ -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtWidgets -isystem /home/ryabi/Qt/6.11.0/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -fPIC -o CMakeFiles/vs_code_qt.dir/encryption/encrypt.cpp.o -c /home/ryabi/my_apps/qt/vs_code_qt/encryption/encrypt.cpp",
+  "file": "/home/ryabi/my_apps/qt/vs_code_qt/encryption/encrypt.cpp",
+  "output": "/home/ryabi/my_apps/qt/vs_code_qt/build/CMakeFiles/vs_code_qt.dir/encryption/encrypt.cpp.o"
+}
+]
